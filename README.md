@@ -7,7 +7,7 @@
 
 <p>
   <img align="right" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611382bf04e5e70d777ebc7c2e988dad020877c25bf&rid=giphy.gif&ct=g" />
-<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=I%20can%20%20start%20immediately%20!;8+%2B%20years%20of%20hands-on%20experience;Love to%20help%20Startups%20and%20growing%20companies&center=true&width=500&height=45" />
+
 &nbsp;&nbsp;Senior AI Software Engineer with <strong>8+ years of software engineering experience</strong> and 5+ years building production AI systems, specializing in <strong>Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI</strong>. Proven ability to design and deploy scalable, cloud-native AI platforms using <strong>Python, FastAPI, LangChain/LangGraph, vector databases, and AWS/GCP</strong>. Experienced in <strong>end-to-end AI delivery</strong>, from model fine-tuning and embeddings to backend APIs, full-stack integration, CI/CD, and production operations.
 
 </p>
