@@ -8,20 +8,20 @@
 <p>
   <img align="right" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611382bf04e5e70d777ebc7c2e988dad020877c25bf&rid=giphy.gif&ct=g" />
 <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=I%20can%20%20start%20immediately%20!;8+%2B%20years%20of%20hands-on%20experience;Love to%20help%20Startups%20and%20growing%20companies&center=true&width=500&height=45" />
-&nbsp;&nbsp;Senior AI Software Engineer with 8+ years of software engineering experience and 5+ years building production AI systems,
-specializing in Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI. Proven
-ability to design and deploy scalable, cloud-native AI platforms using Python, FastAPI, LangChain/LangGraph, vector databases,
-and AWS/GCP. Experienced in end-to-end AI delivery, from model fine-tuning and embeddings to backend APIs, full-stack integration,
-CI/CD, and production operations
+&nbsp;&nbsp;Senior AI Software Engineer with <strong>8+ years of software engineering experience</strong> and 5+ years building production AI systems, specializing in <strong>Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI</strong>. Proven ability to design and deploy scalable, cloud-native AI platforms using <strong>Python, FastAPI, LangChain/LangGraph, vector databases, and AWS/GCP</strong>. Experienced in <strong>end-to-end AI delivery</strong>, from model fine-tuning and embeddings to backend APIs, full-stack integration, CI/CD, and production operations.
 
 </p>
 <br/>
+<br/>
+Key Strengths: 
+RAG systems, Al agents, Generative Al, Agentic Al, LLMs, LangChain, GenAl, NLP, vector databases, full-stack development, scalable backend architecture, cloud services, automation pipelines.
 
+<br/><br/>
 📫 **How to reach me:** <br/><br/>
 [![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:whitedragon3117@gmail.com) &nbsp;
 [![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/13692108511) &nbsp;
-[![WhatsApp](icons/LI-In-Bug.png)](https://www.linkedin.com/in/anthony-fait-4110b83a5) &nbsp;
-[![WhatsApp](icons/2023_Facebook_icon.png)](https://facebook.com) <br/>
+[![LinkedIn](icons/LI-In-Bug.png)](https://www.linkedin.com/in/anthony-fait-4110b83a5) &nbsp;
+<br/>
 
 
 
@@ -30,15 +30,13 @@ CI/CD, and production operations
 
 ### &nbsp; 🛠️ Technical Skills
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Programming Languages**: Python, JavaScript, TypeScript, Java, C#, .NET  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **AI/LLM**: LangChain, LangGraph, CrewAI, Agentic AI, MCP Tools/Servers, RAG, LlamaIndex, Prompt Engineering, 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OpenAI API, Transformers (BERT, RoBERTa), LLM Orchestration, Fine-Tuning, Embeddings, Vector Search, NLP 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pipelines, Classification, Semantic Search, Model Evaluation, TensorFlow, PyTorch, Scikit-learn  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Backend**: FastAPI, Django, Node.js, Express.js, NestJS, REST APIs, Microservices, Event-driven Architecture  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Mobile Development**: Android, React Native, Flutter  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Database**: Pinecone, ChromaDB, PostgreSQL, MongoDB, Redis, SQL, Supabase  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes, CI/CD, GitHub Actions 
+   - **Programming Languages**: Python, JavaScript, TypeScript, Java, C#, .NET  
+   - **AI/LLM**: LangChain, LangGraph, CrewAI, Agentic AI, MCP Tools/Servers, RAG, LlamaIndex, Prompt Engineering, OpenAI API, Transformers (BERT, RoBERTa), LLM Orchestration, Fine-Tuning, Embeddings, Vector Search, NLP Pipelines, Classification, Semantic Search, Model Evaluation, TensorFlow, PyTorch, Scikit-learn  
+   - **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
+   - **Backend**: FastAPI, Django, Node.js, Express.js, NestJS, REST APIs, Microservices, Event-driven Architecture  
+   - **Mobile Development**: Android, React Native, Flutter  
+   - **Database**: Pinecone, ChromaDB, PostgreSQL, MongoDB, Redis, SQL, Supabase  
+   - **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes, CI/CD, GitHub Actions 
 &nbsp;
 
 
