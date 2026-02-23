@@ -1,66 +1,46 @@
 <!-- # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">
 <a target="blank" href="https://profile-counter.glitch.me/ericvale0128/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/ericvale0128/count.svg" /></a>
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+AI+Full-Stack+Developer;Senior+Software+Engineer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812290&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+AI+Software+Engineer;Senior+Full-Stack+Developer)]()
 <hr/>
+<br/>
 
-📫 **How to reach me:** <br/><br/>
-[![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:edgarenterprise1@gmail.com) &nbsp;
-[![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/14802718467) <br/><br/>
 <p>
   <img align="right" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611382bf04e5e70d777ebc7c2e988dad020877c25bf&rid=giphy.gif&ct=g" />
-<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Don't%20worry%20%20if%20it%20doesn't%20work%20right;9+%2B%20years%20of%20hands-on%20experience;If%20everything%20did,%20you'd%20be%20out%20of%20a%20job&center=true&width=500&height=45" />
-&nbsp;&nbsp;Qualified Software Engineer with <strong>7+</strong> years of <strong>Experience</strong> in <strong>Analyzing</strong>, <strong>Designing</strong>, <strong>Developing</strong> and <strong>Integrating</strong> <strong>Front-End<strong> & <strong>Back-End<strong> based application .<br>
-&nbsp;&nbsp;<strong>Experience</strong> in developing web applications using <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>NextJS</strong>, <strong>Tailwind CSS</strong>, <strong>NodeJS</strong> and <strong>ExpressJS<strong>.<br>
-&nbsp;&nbsp;A certified <strong>AI Agent</strong> systems administrator with a proven record in identifying operation problmes and providing innovative solutions.
+<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=I%20can%20%20start%20immediately%20!;8+%2B%20years%20of%20hands-on%20experience;Love to%20help%20Startups%20and%20growing%20companies&center=true&width=500&height=45" />
+&nbsp;&nbsp;Senior AI Software Engineer with 8+ years of software engineering experience and 5+ years building production AI systems,
+specializing in Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI. Proven
+ability to design and deploy scalable, cloud-native AI platforms using Python, FastAPI, LangChain/LangGraph, vector databases,
+and AWS/GCP. Experienced in end-to-end AI delivery, from model fine-tuning and embeddings to backend APIs, full-stack integration,
+CI/CD, and production operations
 
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br/>
+
+📫 **How to reach me:** <br/><br/>
+[![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:whitedragon3117@gmail.com) &nbsp;
+[![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/13692108511) &nbsp;
+[![WhatsApp](icons/LI-In-Bug.png)](https://www.linkedin.com/in/anthony-fait-4110b83a5) &nbsp;
+[![WhatsApp](icons/2023_Facebook_icon.png)](https://facebook.com) <br/>
+
+
 
 
 <img align="left" alt="GIF" src="techstack.gif" width="260px">
 
 ### &nbsp; 🛠️ Technical Skills
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, CI, Laravel, Django, Flask, Express, NestJS, PHP  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📱 **Mobile Development**: Android, React Native, Ionic, Flutter  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Supabase  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔥 **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ⛓️ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🎮 **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Programming Languages**: Python, JavaScript, TypeScript, Java, C#, .NET  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **AI/LLM**: LangChain, LangGraph, CrewAI, Agentic AI, MCP Tools/Servers, RAG, LlamaIndex, Prompt Engineering, 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OpenAI API, Transformers (BERT, RoBERTa), LLM Orchestration, Fine-Tuning, Embeddings, Vector Search, NLP 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pipelines, Classification, Semantic Search, Model Evaluation, TensorFlow, PyTorch, Scikit-learn  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Backend**: FastAPI, Django, Node.js, Express.js, NestJS, REST APIs, Microservices, Event-driven Architecture  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Mobile Development**: Android, React Native, Flutter  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Database**: Pinecone, ChromaDB, PostgreSQL, MongoDB, Redis, SQL, Supabase  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes, CI/CD, GitHub Actions 
 &nbsp;
 
-### 🚧 Current Projects
-- 🍃 RESTful Web Services & Web Services with Spring Boot
-- 🔗 Third Party API Integration & OAuth
-- 🎨 Angular 𒑰 Angular Material 𒑰 React 𒑰 Next.js
-- 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
-
-### 🌱 What I'm boosting
-- 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
-- 📔 Swagger API Documentation
-- 🎩 DevOps 𒑰 CI/CD
-
-
-<!-- <h3 align="left">🛎 Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ericvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ericvale0128" height="30" width="40" /></a>
-<a href="https://dev.to/ericvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ericvale0128" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/ericvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ericvale0128" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17471364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17471364" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ericvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ericvale0128" height="30" width="40" /></a>
-</p> -->
 
 <h3 align="left">🏷 Languages and Tools:</h3>
 <table align="center">
@@ -181,15 +161,7 @@
     </td>
   </tr>
  <tr>
-      <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
-      <br>Go
     </td>
-        <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-      </td>
-      </td>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
